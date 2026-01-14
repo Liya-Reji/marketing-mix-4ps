@@ -1,4 +1,4 @@
-# 📘 Marketing Mix (4Ps) of Amal Jyothi College of Engineering  
+#  Marketing Mix (4Ps) of Amal Jyothi College of Engineering  
 ## A Student Case Study Website
 
 This project is a responsive multi-page website developed as part of a **Digital Marketing / Marketing Management assignment**.  
@@ -8,14 +8,14 @@ The website is hosted live using **GitHub Pages** and demonstrates both **market
 
 ---
 
-## 🌐 Live Website
+##  Live Website
 
-👉 **Live Demo:**  
-🔗 https://liya-reji.github.io/marketing-mix-4ps/
+ **Live Demo:**  
+ https://liya-reji.github.io/marketing-mix-4ps/
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 marketing-mix-4ps/
 │
@@ -38,7 +38,7 @@ marketing-mix-4ps/
 
 ---
 
-## ✨ Project Features
+##  Project Features
 
 - Multi-page responsive website  
 - Navigation menu for easy access  
@@ -50,7 +50,7 @@ marketing-mix-4ps/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **HTML5**  
 - **CSS3**  
@@ -58,7 +58,7 @@ marketing-mix-4ps/
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to:
 
@@ -68,7 +68,7 @@ The objective of this project is to:
 
 ---
 
-## 👩‍🎓 Student Information
+## Student Information
 
 - **Student Name:** Liya  
 - **Project Title:** Marketing Mix (4Ps) Case Study Website  
@@ -77,11 +77,11 @@ The objective of this project is to:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates how marketing concepts can be applied to educational institutions and presented using modern web technologies.  
 The live website serves as a practical example of combining academic learning with technical implementation.
 
 ---
 
-⭐ *This project was created as part of an academic assignment and is intended for educational purposes.*
+ *This project was created as part of an academic assignment and is intended for educational purposes.*
