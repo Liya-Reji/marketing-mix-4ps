@@ -84,4 +84,4 @@ The live website serves as a practical example of combining academic learning wi
 
 ---
 
- *This project was created as part of an academic assignment and is intended for educational purposes.*
+ 
